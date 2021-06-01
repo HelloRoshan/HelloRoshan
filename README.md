@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Flashbrand](https://flashbrand.me/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Angular**
 
 - 📫 How to reach me **roshanbudhathoki02@gmail.com**
 
