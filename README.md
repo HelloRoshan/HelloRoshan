@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Roshan Budhathoki</h1>
 <h3 align="center">A passionate frontend developer from Nepal, Kathmandu</h3>
 
-- 🔭 I’m currently working on [Flashbrand](https://flashbrand.me/)
+- 🔭 I’m currently working on Personal Projects
 
 - 🌱 I’m currently learning **React** and **Angular**
 
 - 📫 How to reach me **roshanbudhathoki02@gmail.com**
-
+- Previously worked on [Flashbrand](https://flashbrand.me/), [Ample Organics](https://ampleorganics.com/en/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/helloroshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="helloroshan" height="30" width="40" /></a>
