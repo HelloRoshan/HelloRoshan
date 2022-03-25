@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Budhathoki</h1>
 <h3 align="center">A passionate frontend developer from Nepal, Kathmandu</h3>
 
-- 🔭 I’m currently working on Personal Projects
+- 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **React** and **Angular**
 
