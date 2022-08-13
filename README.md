@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Budhathoki</h1>
 <h3 align="center">A passionate frontend developer from Nepal, Kathmandu</h3>
 
-- 🔭 I’m currently working on [Flashbrand](https://flashbrand.me/)
+- 🔭 I’m currently a Student at [Swinburne University of Technology](https://www.swinburne.edu.au/)
 
 - 🌱 I’m currently learning **React, Angular and Figma**
 
