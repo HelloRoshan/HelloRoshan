@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a Student at [Swinburne University of Technology](https://www.swinburne.edu.au/)
 
-- 🌱 I’m currently learning **React, Angular and Figma**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **roshanbudhathoki02@gmail.com**
 
