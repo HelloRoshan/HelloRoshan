@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Budhathoki</h1>
-<h3 align="center">A passionate frontend developer based in Melbourne, Australia</h3>
+<h3 align="center">A passionate developer based in Melbourne, Australia</h3>
 
 - 🔭 I’m currently a Student at [Swinburne University of Technology](https://www.swinburne.edu.au/)
 
